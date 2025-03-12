@@ -1,0 +1,78 @@
+{
+    box-sizing: border-box;
+
+}
+body {
+    margin: auto;
+    border: 1px solid rgb(35, 42, 54);
+    width: 900px;
+    height: 500px;
+   
+ 
+}
+
+h1, h2, form, section, button{
+    text-align: center;
+    font-family: Sour Gummy;
+    color: rgb(94, 66, 71);
+    
+    
+}
+form{
+    font-size: 20px;
+    
+}
+button {
+    display:block;
+    font-family: sans-serif;
+    margin:10px auto;
+}
+section{
+    text-align: center;
+   
+} 
+ul, li {
+    list-style: none;
+    display:flex;
+
+
+}
+
+h2{
+    font-size: 30px;
+    font-weight: bold;
+    padding: 40px;
+    color:rgb(7, 7, 7);
+}
+
+#melrose{
+    color:  rgb(179,186,255);
+}
+
+#cornflowerlilac{
+    color:   rgb(255,170,163);
+}
+
+#oceangreen{
+    color:   rgb(80,208,168);
+}
+
+#carnationpink{
+    color:   rgb(255, 173, 199);
+}
+
+#bittersweet{
+    color:   rgb(255, 113, 107);
+}
+
+#thistle{
+    color: rgb(215, 178, 214);
+}
+
+#mauve{
+    color:rgb(205, 175, 255);
+}
+
+#algaegreen{
+    color: rgb(81, 208, 168);
+}
